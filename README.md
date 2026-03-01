@@ -1,9 +1,3 @@
-
-
-
-
-# Números Circulares
-
 🔗 **Página en vivo**: [https://pedrojuan1610pr.github.io/PokemonGoIvNameGenerator/](https://pedrojuan1610pr.github.io/PokemonGoIvNameGenerator/)
 
 Una aplicación web minimalista e intuitiva para convertir números del 0 al 15 en sus símbolos circulados correspondientes (⓪①②③...⑮). Perfecta para compartir estadísticas de Pokémon GO, valores de juego o cualquier combinación numérica de forma visual y atractiva.
