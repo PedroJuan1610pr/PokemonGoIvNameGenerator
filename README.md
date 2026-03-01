@@ -121,28 +121,6 @@ Color:      🟡 Amarillo/Naranja
 - Los sliders van de 0 a 15 con pasos de 1 (16 valores posibles)
 - El color rojo en sliders solo aparece exactamente en el valor 15
 
-## 🛠️ Desarrollo y Personalización
-
-### Modificar Colores
-Edita las variables en `styles.css`:
-```css
-/* Slider colors */
-.slider-fill { background: linear-gradient(90deg, #fbbf24, #f59e0b); }
-.slider-fill.max-value { background: linear-gradient(90deg, #ef4444, #dc2626); }
-```
-
-### Cambiar Rango
-Edita el máximo en `script.js`:
-```javascript
-// Cambiar de 15 a otro valor
-const percentage = (value / 15) * 100; // Modificar el denominador
-```
-
-### Añadir Más Campos
-1. Agrega inputs en `PokemonGoIv.html`
-2. Actualiza el array `inputs` en `script.js`
-3. Añade sliders correspondientes en el modal
-
 ## 🤝 Contribuciones
 
 Si encuentras algún error o deseas agregar mejoras:
