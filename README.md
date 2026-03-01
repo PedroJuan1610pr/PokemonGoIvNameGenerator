@@ -2,7 +2,7 @@
 
 
 
-# POkemon Go IVs Name Gen
+# Pokemon Go IVs Name Gen
 
 🔗 **Página en vivo**: [https://pedrojuan1610pr.github.io/PokemonGoIvNameGenerator/](https://pedrojuan1610pr.github.io/PokemonGoIvNameGenerator/)
 
